@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\bin\Debug\SistemaCalificacionesAcademicas.exe.config
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\bin\Debug\SistemaCalificacionesAcademicas.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\bin\Debug\SistemaCalificacionesAcademicas.pdb
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\obj\Debug\SistemaCalificacionesAcademicas.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\obj\Debug\SistemaCalificacionesAcademicas.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\obj\Debug\SistemaCalificacionesAcademicas.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\SistemaCalificacionesAcademicas\SistemaCalificacionesAcademicas\obj\Debug\SistemaCalificacionesAcademicas.pdb
