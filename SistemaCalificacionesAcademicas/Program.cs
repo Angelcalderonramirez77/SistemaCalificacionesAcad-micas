@@ -20,7 +20,8 @@ namespace SistemaCalificacionesAcademicas
 
             // 2 solicitar calificacion
             Console.Write(" La Nota del P1: ");
-            if (!decimal.TryParse(Console.ReadLine(), out nota1)){
+            if (!decimal.TryParse(Console.ReadLine(), out nota1) || nota1 >= 0 && nota1 >= 0)
+            {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error: No puede ingresar texto en la calificacion");
                 Console.WriteLine("Intentelo de nuevo");
@@ -30,7 +31,7 @@ namespace SistemaCalificacionesAcademicas
             }
 
             Console.Write(" La Nota del P2: ");
-            if (!decimal.TryParse(Console.ReadLine(), out nota2))
+            if (!decimal.TryParse(Console.ReadLine(), out nota2) || nota2 >= 0 && nota2 >= 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error: No puede ingresar texto en la calificacion");
@@ -41,7 +42,7 @@ namespace SistemaCalificacionesAcademicas
             }
 
             Console.Write(" La Nota del P3: ");
-            if (!decimal.TryParse(Console.ReadLine(), out nota3))
+            if (!decimal.TryParse(Console.ReadLine(), out nota3) || nota3 >= 0 && nota3 >= 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error: No puede ingresar texto en la calificacion");
@@ -52,14 +53,14 @@ namespace SistemaCalificacionesAcademicas
             }
 
             Console.Write(" La Nota del P4: ");
-            if (!decimal.TryParse(Console.ReadLine(), out nota4))
+            if (!decimal.TryParse(Console.ReadLine(), out nota4) || nota4 >=0  && nota4 <=100)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error: No puede ingresar texto en la calificacion");
                 Console.WriteLine("Intentelo de nuevo");
 
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write(" LNota del P1: ");
+                Console.Write(" LNota del P4: ");
             }
 
 
